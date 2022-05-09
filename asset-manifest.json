@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpensePage.github.io/static/css/main.a1104fea.css",
+    "main.js": "/ExpensePage.github.io/static/js/main.31cce8df.js",
+    "index.html": "/ExpensePage.github.io/index.html",
+    "main.a1104fea.css.map": "/ExpensePage.github.io/static/css/main.a1104fea.css.map",
+    "main.31cce8df.js.map": "/ExpensePage.github.io/static/js/main.31cce8df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1104fea.css",
+    "static/js/main.31cce8df.js"
+  ]
+}
